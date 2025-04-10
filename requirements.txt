@@ -1,0 +1,16 @@
+# Web server and framework
+fastapi>=0.103.1
+uvicorn>=0.23.2
+starlette>=0.27.0
+
+# Model Control Protocol
+mcp-python>=0.0.1
+
+# HTTP client for async requests
+httpx>=0.24.1
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# Data validation
+pydantic>=2.3.0
