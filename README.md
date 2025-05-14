@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/anthonychu-azure-container-apps-mcp-sample-badge.png)](https://mseep.ai/app/anthonychu-azure-container-apps-mcp-sample)
+
 # Azure Container Apps remote MCP server example
 
 This MCP server uses SSE transport and is authenticated with an API key.
